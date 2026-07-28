@@ -1,0 +1,1 @@
+CREATE TABLE sss (REF INT,Rollo VARCHAR(20));

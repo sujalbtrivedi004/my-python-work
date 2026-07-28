@@ -1,0 +1,1 @@
+c 2 55 0 org/lombokweb/asm/SymbolTable getMajorVersion ()I 2 106 0 org/lombokweb/asm/ClassReader readUnsignedShort (I)I 2 137 0 org/lombokweb/asm/ClassReader readUnsignedShort (I)I 1 596 0 org/lombokweb/asm/MethodWriter setMethodAttributesSource (II)V
